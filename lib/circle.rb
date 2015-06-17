@@ -5,6 +5,10 @@
 
 class Circle
 
+	def initialize(rad)
+		# add code here
+	end
+
 	# your code here
 
 	# def draw
